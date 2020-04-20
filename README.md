@@ -1,2 +1,2 @@
-# C-42
-I created MY OWN VERSION of SHOOTING GAME!!
+# p5.play-boilerplate
+Boiler plate for p5.play
